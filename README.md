@@ -24,16 +24,16 @@ Luego visita `http://localhost:3000`.
 
 ## Controles
 
-| Tecla   | Acción     |
-|---------|------------|
-| `←` `→` | Rotar nave |
-| `↑`     | Propulsar  |
-| `Espacio` | Disparar |
+| Tecla     | Acción     |
+| --------- | ---------- |
+| `←` `→`   | Rotar nave |
+| `↑`       | Propulsar  |
+| `Espacio` | Disparar   |
 
 ## Puntuación
 
 | Asteroide | Puntos |
-|-----------|--------|
+| --------- | ------ |
 | Grande    | 20     |
 | Mediano   | 50     |
 | Pequeño   | 100    |
